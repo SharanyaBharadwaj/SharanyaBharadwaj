@@ -2,41 +2,42 @@
 
 ### Aspiring Data Analyst | Excel | SQL | Power BI | Python
 
-I'm an aspiring Data Analyst with a background in Accounting and Audit, currently building practical skills in data analysis and visualization.
+I'm an aspiring Data Analyst and a fresher in the field of Data Analytics, passionate about working with data to discover trends, identify patterns, and generate meaningful insights.
 
-I enjoy working with data to identify trends, create meaningful reports, and support data-driven decision-making.
+I enjoy cleaning and analyzing datasets, creating interactive dashboards, and presenting data through clear visualizations to support data-driven decision-making. I'm continuously improving my technical skills through hands-on projects and practical learning.
 
 ## 🛠️ Skills
 
-- Excel
-- SQL
+- Microsoft Excel
+- SQL (PostgreSQL)
 - Power BI
 - Python
 - Data Cleaning
-- Data Analysis
+- Exploratory Data Analysis
 - Data Visualization
-- Microsoft Office
+- Dashboard Development
+- Data Reporting
 
 ## 📊 Data Analytics Projects
 
 ### 📈 Excel — Sales Data Analysis
-- Cleaned and analyzed sales data using Excel
-- Created pivot tables and calculated key business metrics
-- Analyzed sales, profit, and category performance
+- Cleaned and analyzed sales data using Microsoft Excel.
+- Used formulas, PivotTables, and charts to summarize business data.
+- Analyzed sales, profit, and product category performance.
 
 ### 📊 Power BI — E-Commerce Sales Dashboard
-- Cleaned and transformed data using Power Query
-- Created interactive dashboards in Power BI
-- Analyzed monthly sales trends and business performance
+- Cleaned and transformed data using Power Query.
+- Created interactive dashboards to visualize sales performance.
+- Analyzed sales trends and key performance indicators (KPIs).
 
 ### 🗄️ SQL — Customer Data Analysis
-- Analyzed customer data using PostgreSQL
-- Used SQL queries to extract and analyze business insights
-- Worked with filtering, aggregation, grouping, and joins
+- Analyzed customer data using PostgreSQL.
+- Wrote SQL queries to retrieve and summarize relevant information.
+- Practiced filtering, aggregation, grouping, and joins to explore data.
 
-## 💼 Background
+## 🎯 Career Objective
 
-Audit Assistant with 3 years of experience in accounting and audit-related work, currently transitioning into Data Analytics.
+As an entry-level Data Analyst, I'm looking for an opportunity to apply my analytical skills, work with real-world datasets, solve business problems, and grow as a data professional.
 
 ## 📫 Connect With Me
 
